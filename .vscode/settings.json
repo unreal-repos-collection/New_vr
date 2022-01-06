@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"E:/Unreal Projects/new_vr/.vs": true,
+		"E:/Unreal Projects/new_vr/.vscode": true,
+		"E:/Unreal Projects/new_vr/Content": true,
+		"E:/Unreal Projects/new_vr/Intermediate": true,
+		"E:/Unreal Projects/new_vr/Saved": true
+	}
+}
